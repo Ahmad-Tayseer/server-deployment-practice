@@ -13,7 +13,7 @@ GitHub pull request:
     https://github.com/Ahmad-Tayseer/server-deployment-practice
 
 ***
-Notes the Demo:
+Steps and notes:
 
     1.  Create the Repo on GitHub.
     2.  Create new branch then create branch (dev).
