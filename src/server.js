@@ -20,8 +20,8 @@ app.get('/data', date, (req, res) => {
 })
 
 app.get('/bad', (req, res) => {
-    let num = 10;
-    let result = num.forEach( (element) => {
+    let number = 5;
+    let result = number.forEach( (element) => {
         console.log(element);
     });
     res.send(result);
