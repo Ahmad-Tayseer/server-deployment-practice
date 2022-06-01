@@ -1,16 +1,20 @@
 # server-deployment-practice
 
-Heroku link:
+Heroku link for the main branch:
 
-    https://ahmad-5995-server-deploy-dev.herokuapp.com/
+https://ahmad-5995-server-deploy-prod.herokuapp.com/
+
+Heroku link for the dev branch:
+
+https://ahmad-5995-server-deploy-dev.herokuapp.com/
 
 GitHub action page:
 
-    https://github.com/Ahmad-Tayseer/server-deployment-practice/actions
+https://github.com/Ahmad-Tayseer/server-deployment-practice/actions
 
 GitHub pull request:
 
-    https://github.com/Ahmad-Tayseer/server-deployment-practice
+https://github.com/Ahmad-Tayseer/server-deployment-practice
 
 ***
 Steps and notes:
